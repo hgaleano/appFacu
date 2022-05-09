@@ -1,0 +1,7 @@
+{
+  "name": "appFacu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
